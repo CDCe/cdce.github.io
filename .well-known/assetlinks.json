@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.danico.academy",
+    "sha256_cert_fingerprints": ["1C:FB:6C:21:90:C3:9C:F4:FB:0C:95:62:EA:FA:D8:05:93:B4:F5:69:3A:48:B8:1C:06:80:4F:35:1B:3B:59:0B"]
+  }
+}]
